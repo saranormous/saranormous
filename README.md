@@ -1,5 +1,4 @@
 Hi! I’m a General Partner at Greylock, making early-stage venture capital investments in software startups.
-<link>sarahguo.com</link>
 <!--
 **saranormous/saranormous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
